@@ -10,7 +10,7 @@ body{
   height: 100vh;
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  background: rgba(12, 128, 182, 0.699);
+  background: rgba(12, 129, 182, 0.599);
   background-image: url('https://images.pexels.com/photos/1431822/pexels-photo-1431822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   font-size: 120%;
 }
